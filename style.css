@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#mycanvas{
+    background-color:ivory;
+    border-width:10px;
+    border-style:inset;
+    border-color: red;
+}
+h1{
+    color:turquoise;
+    font-size:30px;
+}
+
+.body_background {
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+}
